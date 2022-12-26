@@ -1,5 +1,5 @@
 <h1 align="center">HOla 👋, me llamo Gabriel Martinez</h1>
-<h3 align="center">Soy un desarrallodor full stack apasionado</h3>
+<h3 align="center">Soy un desarrallodor Front-End apasionado</h3>
 
 - 👨‍💻 All of my projects are available at [https://gabrielmartinezghioma.netlify.app/](https://gabrielmartinezghioma.netlify.app/)
 
