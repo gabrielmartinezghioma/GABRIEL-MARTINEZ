@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **html, css,scss, reactJs, JavaScript, TypeScript, git**
 
-- 📫 How to reach me **martinezgabrielalejandro@gmail.com**
+- 📫 How to reach me **martinezgabrielalejandro4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
